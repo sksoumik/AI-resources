@@ -49,7 +49,8 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 - [IBM ai](http://www.research.ibm.com/ai/#)
 - [openai blogs](https://openai.com/blog/)
 - [facebook AI research](https://research.fb.com/publications/)
--[Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/)
+
+- [Berkeley Artificial Intelligence Research (BAIR)](https://bair.berkeley.edu/)
 - [MIT Computer Science & Artificial Intelligence Lab](https://www.csail.mit.edu/)
 - [Max Planck Institute for Intelligent Systems](https://is.tuebingen.mpg.de/)
 - [Oxford Robotics Institute (ORI)](https://ori.ox.ac.uk/)
