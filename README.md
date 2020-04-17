@@ -23,7 +23,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 - [[read] From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
-- [[read] https://cs231n.github.io/python-numpy-tutorial/](https://cs231n.github.io/python-numpy-tutorial/)
+- [[read] Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
 
 ---
 ### PyTorch
