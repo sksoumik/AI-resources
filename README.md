@@ -54,6 +54,9 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 - [[read] Blurred Image Region Detection and Classification](https://fled.github.io/paper/blur.pdf)
 
+- [[arxiv] Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks](https://arxiv.org/abs/1710.11063)
+
+
 ---
 ### Course
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
