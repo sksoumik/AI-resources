@@ -7,6 +7,10 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 - [[programiz] Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
 
+- [[Corey Schafer] Python Programming Beginner Tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7)
+
+- [[Corey Schafer] Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
+- [[Real Python] Intermediate and Advanced Features](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx)
 
 ---
 ### OpenCV
@@ -18,6 +22,8 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 - [[py2py] Bokeh Effect in Image using Python](https://py2py.com/bokeh-effect-in-image-using-python/)
 
+- [[pysource] face swapping](https://pysource.com/2019/04/04/face-swapping-opencv-with-python-part-1/)
+
 ---
 ### NumPy
 
@@ -27,6 +33,16 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 ---
 ### PyTorch
+- [[pytorch] Official Tutorial](https://pytorch.org/tutorials/)
+
+- [[Sung Kim] PyTorchZeroToAll](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
+
+- [[deeplizard] Neural Network Programming - Deep Learning with PyTorch](https://www.youtube.com/playlist?list=PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG)
+
+- [[sentdex] Pytorch - Deep learning w/ Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc0gxFpYwHY2Qfdh)
+
+- [[kaggle] Pytorch Tutorial for Deep Learning Lovers](https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers)
+
 
 ---
 
@@ -37,6 +53,21 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 - [[arxiv] UNet++: Redesigning Skip Connections to Exploit Multiscale Features in Image Segmentation](https://arxiv.org/abs/1912.05074)
 
 - [[read] Blurred Image Region Detection and Classification](https://fled.github.io/paper/blur.pdf)
+
+---
+### Course
+- [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
+- [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
+- [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
+
+- [Udacity: Machine Learning](https://classroom.udacity.com/courses/ud262)
+
+---
+### Maths
+- [[3Blue1Brown] Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+- [[udacity] Intro to statistics](https://classroom.udacity.com/courses/st101)
+
 
 ---
 
