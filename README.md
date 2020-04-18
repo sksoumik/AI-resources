@@ -3,7 +3,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 ---
 
-> ### Books
+> ## Books
 
 <table>
   <tr>
@@ -60,7 +60,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 
 ---
-### Python
+> ## Python
 
 - [[programiz] Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
 
@@ -70,7 +70,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 - [[Real Python] Intermediate and Advanced Features](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx)
 
 ---
-### OpenCV
+> ## OpenCV
 - [[pyimagesearch] How To Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
 
 - [[pyimagesearch] Blur detection with OpenCV](https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/)
@@ -84,14 +84,14 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 - [[learnopencv] Augmented Reality using ArUco Markers in OpenCV (C++ / Python)](https://www.learnopencv.com/augmented-reality-using-aruco-markers-in-opencv-c-python/)
 
 ---
-### NumPy
+> ## NumPy
 
 - [[Nicolas P. Rougie] From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/)
 
 - [[stanford] Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
 
 ---
-### PyTorch
+> ## PyTorch
 - [[pytorch] Official Tutorial](https://pytorch.org/tutorials/)
 
 - [[Sung Kim] PyTorchZeroToAll](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJ3I-dbhO9JTw7gNty6o_2m)
@@ -106,7 +106,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 ---
 
-### Papers
+> ## Papers
 
 - [[arxiv] YOLACT++: Better Real-time Instance Segmentation](https://arxiv.org/abs/1912.06218)
 
@@ -118,7 +118,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 
 ---
-### Course
+> ## Course
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
 - [Stanford CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/)
 - [Coursera: Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning)
@@ -126,7 +126,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 - [Udacity: Machine Learning](https://classroom.udacity.com/courses/ud262)
 
 ---
-### Maths
+> ## Maths
 - [[3Blue1Brown] Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 - [[udacity] Intro to statistics](https://classroom.udacity.com/courses/st101)
@@ -138,7 +138,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 ---
 
-### AI trending news/technolgies
+> ## AI trending news/technolgies
 - [Google AI Blog](https://ai.googleblog.com/)
 - [ai.stanford.edu](https://ai.stanford.edu/)
 - [deepmind blogs](https://deepmind.com/blog)
