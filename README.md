@@ -1,6 +1,22 @@
 ## AI-resources
 Important machine learning / deep learning / Image Processing resources.  blogs | courses | articles | tutorials | repositories | books | competition | papers etc. 
 
+Table of Contents
+=================
+
+      * [AI-resources](#ai-resources)
+      * [Books](#books)
+      * [Python](#python)
+      * [OpenCV](#opencv)
+      * [NumPy](#numpy)
+      * [PyTorch](#pytorch)
+      * [Papers](#papers)
+      * [Course](#course)
+      * [Maths](#maths)
+      * [Visualization](#visualization)
+      * [AI trending news/technolgies](#ai-trending-newstechnolgies)
+      * [People to follow on twitter](#people-to-follow-on-twitter)
+
 ---
 
 > ## Books
