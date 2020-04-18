@@ -132,7 +132,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 - [[udacity] Intro to statistics](https://classroom.udacity.com/courses/st101)
 
 ---
-### Visualization
+> ## Visualization
 
 - [t-SNE for Feature Visualization](https://www.learnopencv.com/t-sne-for-feature-visualization/)
 
