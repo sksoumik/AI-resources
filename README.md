@@ -61,9 +61,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
     <td><img src="static/francois_chollet.jpg" width=100></td>
     <td><img src="static/grokking.jpeg" width=100></td>
   </tr>
- </table>
 
- <table>
   <tr>
      <td>Generative Deep Learning - David Foster</td>
      <td>Machine Learning Yearning - Andrew Ng</td>
@@ -76,6 +74,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
     <td><img src="static/hands-on.jpg" width=100></td>
   </tr>
  </table>
+
 
 
 ---
