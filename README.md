@@ -3,6 +3,49 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 ---
 
+### Books
+
+<table>
+  <tr>
+     <td>Deep Learning- Ian Goodfellow, Aaron Courville, Yoshua Bengio</td>
+     <td>Deep Learning with Python - François Chollet</td>
+     <td>Grokking Deep Learning - Andrew W. Trask </td>
+  </tr>
+  
+  <tr>
+    <td><img src="static/deep_learning.jpg" width=100></td>
+    <td><img src="static/francois_chollet.jpg" width=100></td>
+    <td><img src="static/grokking.jpeg" width=100></td>
+  </tr>
+
+  <tr>
+     <td>Generative Deep Learning - David Foster</td>
+     <td>Machine Learning Yearning - Andrew Ng</td>
+     <td>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurelien Geron </td>
+  </tr>
+  
+  <tr>
+    <td><img src="static/david_foster.jpg" width=100></td>
+    <td><img src="static/yearnig.jpg" width=100></td>
+    <td><img src="static/hands-on.jpg" width=100></td>
+  </tr>
+
+  <tr>
+     <td>Deep Learning with PyTorch - Eli Stevens and Luca Antiga </td>
+     <td>Machine Learning: a Probabilistic Perspective - Kevin Patrick Murphy</td>
+     <td>The Hundred-Page Machine Learning Book - Andriy Burkov </td>
+  </tr>
+  
+  <tr>
+    <td><img src="static/pytorch.jpeg" width=100></td>
+    <td><img src="static/kevin_patrick.jpg" width=100></td>
+    <td><img src="static/burkov.jpg" width=100></td>
+  </tr>
+ </table>
+
+
+
+---
 ### Python
 
 - [[programiz] Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
@@ -46,38 +89,6 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 - [[kaggle] Pytorch Tutorial for Deep Learning Lovers](https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers)
 
 - [[SATYA MALLICK] Multi-Label Image Classification with PyTorch](https://www.learnopencv.com/multi-label-image-classification-with-pytorch/)
-
----
-### Books
-
-
-<table>
-  <tr>
-     <td>Deep Learning- Ian Goodfellow, Aaron Courville, Yoshua Bengio</td>
-     <td>Deep Learning with Python - François Chollet</td>
-     <td>Grokking Deep Learning - Andrew W. Trask </td>
-  </tr>
-  
-  <tr>
-    <td><img src="static/deep_learning.jpg" width=100></td>
-    <td><img src="static/francois_chollet.jpg" width=100></td>
-    <td><img src="static/grokking.jpeg" width=100></td>
-  </tr>
-
-  <tr>
-     <td>Generative Deep Learning - David Foster</td>
-     <td>Machine Learning Yearning - Andrew Ng</td>
-     <td>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurelien Geron </td>
-  </tr>
-  
-  <tr>
-    <td><img src="static/david_foster.jpg" width=100></td>
-    <td><img src="static/yearnig.jpg" width=100></td>
-    <td><img src="static/hands-on.jpg" width=100></td>
-  </tr>
- </table>
-
-
 
 ---
 
