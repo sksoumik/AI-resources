@@ -161,6 +161,52 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 - [DeepAI](https://deepai.org/)
 
 ---
+> ## People to follow on twitter
+- [Geoffrey Hinton | Father Of Deep Learning](https://twitter.com/geoffreyhinton)
+
+- [François Chollet | Creator of Keras](https://twitter.com/fchollet)
+
+- [Elon Musk | CEO @ Tesla, SpaceX](https://twitter.com/elonmusk)
+
+- [Ian Goodfellow | Inventor of GANs](https://twitter.com/goodfellow_ian)
+
+- [Andrew Ng | Co-Founder of Coursera, Former head of Baidu AI Group/Google Brain](https://twitter.com/AndrewYNg)
+
+- [Soumith Chintala | Co-created and lead PyTorch](https://twitter.com/soumithchintala)
+
+- [Grant Sanderson | Creator of 3blue1brown](https://twitter.com/3blue1brown)
+
+- [Guido van Rossum | Creator of Python](https://twitter.com/gvanrossum)
+
+- [Adrian Rosebrock | Author of PyImageSearch](https://twitter.com/PyImageSearch)
+
+- [Lex Fridman | Researcher in machine learning, autonomous vehicles and human-centered AI](https://twitter.com/lexfridman)
+
+- [Jess Hamrick | Research scientist @ Google’s DeepMind](https://twitter.com/jhamrick)
+
+- [Kai-Fu Lee | Former president of Google China](https://twitter.com/kaifulee)
+
+- [Jason Brownlee | curator of Machine Learning Mastery](https://twitter.com/TeachTheMachine)
+
+- [Lisha Li | CEO @ Rosebud_AI](https://twitter.com/lishali88)
+
+- [Andreas Mueller | Core Developer of scikit-learn](https://twitter.com/amuellerml)
+
+- [Sebastian Raschka | Writer of a book on machine learning practices in Python](https://twitter.com/rasbt)
+
+- [Tamara McCleary | CEO @ ThuliumCo](https://twitter.com/TamaraMcCleary)
+
+- [Kirk Borne | Principal Data Scientist @ BoozAllen](https://twitter.com/KirkDBorne)
+
+- [Abhishek Thakur | Chief Data Scientist @ boost.ai, First 4x GM on Kaggle](https://twitter.com/abhi1thakur)
+
+- [Ronald van Loon | AI Influencer](https://twitter.com/Ronald_vanLoon)
+
+- [Yann LeCun | Chief AI Scientist @ Facebook](https://twitter.com/ylecun)
+
+- [Hilary Mason | Founder & CEO @ Fast Forward Labs](https://twitter.com/hmason)
+
+
 ---
 
 Author: Sadman Kabir Soumik
