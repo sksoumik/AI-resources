@@ -63,6 +63,20 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
   </tr>
  </table>
 
+ <table>
+  <tr>
+     <td>Generative Deep Learning - David Foster</td>
+     <td>Machine Learning Yearning - Andrew Ng</td>
+     <td>Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow - Aurelien Geron </td>
+  </tr>
+  
+  <tr>
+    <td><img src="static/david_foster.jpg" width=100></td>
+    <td><img src="static/yearnig.jpg" width=100></td>
+    <td><img src="static/hands-on.jpg" width=100></td>
+  </tr>
+ </table>
+
 
 ---
 
