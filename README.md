@@ -43,6 +43,26 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 - [[kaggle] Pytorch Tutorial for Deep Learning Lovers](https://www.kaggle.com/kanncaa1/pytorch-tutorial-for-deep-learning-lovers)
 
+- [[SATYA MALLICK] Multi-Label Image Classification with PyTorch](https://www.learnopencv.com/multi-label-image-classification-with-pytorch/)
+
+---
+### Books
+
+
+<table>
+  <tr>
+     <td>Deep Learning- Ian Goodfellow, Aaron Courville, Yoshua Bengio</td>
+     <td>Deep Learning with Python - François Chollet</td>
+     <td>Grokking Deep Learning - Andrew W. Trask </td>
+  </tr>
+  
+  <tr>
+    <td><img src="static/deep_learning.jpg" width=100></td>
+    <td><img src="static/francois_chollet.jpg" width=100></td>
+    <td><img src="static/grokking.jpeg" width=100></td>
+  </tr>
+ </table>
+
 
 ---
 
