@@ -41,6 +41,20 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
     <td><img src="static/kevin_patrick.jpg" width=100></td>
     <td><img src="static/burkov.jpg" width=100></td>
   </tr>
+
+  <tr>
+     <td>Computer Vision: Algorithms and Applications - Richard Szeliski </td>
+     <td>Digital Image Processing - Rafael C. Gonzalez and Richard E. Woods</td>
+     <td>Programming Collective Intelligence: Building Smart Web 2.0 Applications - Toby Segaran</td>
+  </tr>
+  
+  <tr>
+    <td><img src="static/computer_vision.jpg" width=100></td>
+    <td><img src="static/digital_image_processing.jpg" width=100></td>
+    <td><img src="static/collective_intelligence.jpg" width=100></td>
+  </tr>
+
+
  </table>
 
 
