@@ -15,6 +15,7 @@ Table of Contents
   * [AI trending news/technolgies](#ai-trending-newstechnolgies)
   * [People to follow on twitter](#people-to-follow-on-twitter)
 
+<br />
 
 > ## Books
 
@@ -70,6 +71,7 @@ Table of Contents
 
  </table>
 
+<br />
 
 > ## Python
 
@@ -79,6 +81,8 @@ Table of Contents
 
 - [[Corey Schafer] Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - [[Real Python] Intermediate and Advanced Features](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx)
+
+<br />
 
 
 > ## OpenCV
@@ -94,6 +98,7 @@ Table of Contents
 
 - [[learnopencv] Augmented Reality using ArUco Markers in OpenCV (C++ / Python)](https://www.learnopencv.com/augmented-reality-using-aruco-markers-in-opencv-c-python/)
 
+<br />
 
 > ## NumPy
 
@@ -101,7 +106,9 @@ Table of Contents
 
 - [[stanford] Python Numpy Tutorial (with Jupyter and Colab)](https://cs231n.github.io/python-numpy-tutorial/)
 
----
+<br />
+
+
 > ## PyTorch
 - [[pytorch] Official Tutorial](https://pytorch.org/tutorials/)
 
@@ -115,6 +122,7 @@ Table of Contents
 
 - [[SATYA MALLICK] Multi-Label Image Classification with PyTorch](https://www.learnopencv.com/multi-label-image-classification-with-pytorch/)
 
+<br />
 
 > ## Papers
 
@@ -126,6 +134,7 @@ Table of Contents
 
 - [[arxiv] Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks](https://arxiv.org/abs/1710.11063)
 
+<br />
 
 > ## Course
 - [MIT 6.S191: Introduction to Deep Learning](https://www.youtube.com/playlist?list=PLtBw6njQRU-rwp5__7C0oIVt26ZgjG9NI)
@@ -135,17 +144,20 @@ Table of Contents
 - [Udacity: Machine Learning](https://classroom.udacity.com/courses/ud262)
 
 
+<br />
 
 > ## Maths
 - [[3Blue1Brown] Essence of linear algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 - [[udacity] Intro to statistics](https://classroom.udacity.com/courses/st101)
 
+<br />
 
 > ## Visualization
 
 - [t-SNE for Feature Visualization](https://www.learnopencv.com/t-sne-for-feature-visualization/)
 
+<br />
 
 > ## AI trending news/technolgies
 - [Google AI Blog](https://ai.googleblog.com/)
@@ -169,7 +181,7 @@ Table of Contents
 - [MIT Technology review](https://www.technologyreview.com/)
 - [DeepAI](https://deepai.org/)
 
-
+<br />
 
 > ## People to follow on twitter
 - [Geoffrey Hinton | Father Of Deep Learning](https://twitter.com/geoffreyhinton)
@@ -216,7 +228,7 @@ Table of Contents
 
 - [Hilary Mason | Founder & CEO @ Fast Forward Labs](https://twitter.com/hmason)
 
+<br />
 
 ---
-
 Author: Sadman Kabir Soumik
