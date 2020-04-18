@@ -3,7 +3,7 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 ---
 
-### Books
+> ### Books
 
 <table>
   <tr>
