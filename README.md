@@ -4,7 +4,6 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 Table of Contents
 =================
 
-  * [AI-resources](#ai-resources)
   * [Books](#books)
   * [Python](#python)
   * [OpenCV](#opencv)
