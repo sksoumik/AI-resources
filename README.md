@@ -13,9 +13,9 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
   </tr>
   
   <tr>
-    <td><img src="static/deep_learning.jpg" width=100></td>
-    <td><img src="static/francois_chollet.jpg" width=100></td>
-    <td><img src="static/grokking.jpeg" width=100></td>
+    <td><img src="static/deep_learning.jpg" width=150></td>
+    <td><img src="static/francois_chollet.jpg" width=150></td>
+    <td><img src="static/grokking.jpeg" width=150></td>
   </tr>
 
   <tr>
@@ -25,9 +25,9 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
   </tr>
   
   <tr>
-    <td><img src="static/david_foster.jpg" width=100></td>
-    <td><img src="static/yearnig.jpg" width=100></td>
-    <td><img src="static/hands-on.jpg" width=100></td>
+    <td><img src="static/david_foster.jpg" width=150></td>
+    <td><img src="static/yearnig.jpg" width=150></td>
+    <td><img src="static/hands-on.jpg" width=150></td>
   </tr>
 
   <tr>
@@ -37,9 +37,9 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
   </tr>
   
   <tr>
-    <td><img src="static/pytorch.jpeg" width=100></td>
-    <td><img src="static/kevin_patrick.jpg" width=100></td>
-    <td><img src="static/burkov.jpg" width=100></td>
+    <td><img src="static/pytorch.jpeg" width=150></td>
+    <td><img src="static/kevin_patrick.jpg" width=150></td>
+    <td><img src="static/burkov.jpg" width=150></td>
   </tr>
 
   <tr>
@@ -49,9 +49,9 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
   </tr>
   
   <tr>
-    <td><img src="static/computer_vision.jpg" width=100></td>
-    <td><img src="static/digital_image_processing.jpg" width=100></td>
-    <td><img src="static/collective_intelligence.jpg" width=100></td>
+    <td><img src="static/computer_vision.jpg" width=150></td>
+    <td><img src="static/digital_image_processing.jpg" width=150></td>
+    <td><img src="static/collective_intelligence.jpg" width=150></td>
   </tr>
 
 
