@@ -24,6 +24,8 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 - [[pysource] face swapping](https://pysource.com/2019/04/04/face-swapping-opencv-with-python-part-1/)
 
+- [[learnopencv] Augmented Reality using ArUco Markers in OpenCV (C++ / Python)](https://www.learnopencv.com/augmented-reality-using-aruco-markers-in-opencv-c-python/)
+
 ---
 ### NumPy
 
@@ -104,6 +106,10 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 
 - [[udacity] Intro to statistics](https://classroom.udacity.com/courses/st101)
 
+---
+### Visualization
+
+- [t-SNE for Feature Visualization](https://www.learnopencv.com/t-sne-for-feature-visualization/)
 
 ---
 
@@ -130,3 +136,6 @@ Important machine learning / deep learning / Image Processing resources.  blogs 
 - [DeepAI](https://deepai.org/)
 
 ---
+---
+
+Author: Sadman Kabir Soumik
