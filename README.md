@@ -134,6 +134,8 @@ Table of Contents
 
 - [[arxiv] Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks](https://arxiv.org/abs/1710.11063)
 
+- [[arxiv] Deformable Convolutional Networks](https://arxiv.org/abs/1703.06211)
+
 <br />
 
 > ## Course
