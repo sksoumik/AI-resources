@@ -161,6 +161,15 @@ Table of Contents
 
 <br />
 
+> ## Natural language processing (NLP)
+
+- [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
+
+
+
+<br />
+
+
 > ## AI trending news/technolgies
 - [Google AI Blog](https://ai.googleblog.com/)
 - [ai.stanford.edu](https://ai.stanford.edu/)
