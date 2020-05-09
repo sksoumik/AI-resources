@@ -4,6 +4,7 @@ Table of Contents
 =================
 
   * [Books](#books)
+  * [Best Websites to Learn AI/ML](#best-websites-to-learn-aiml)
   * [Python](#python)
   * [OpenCV](#opencv)
   * [NumPy](#numpy)
@@ -73,6 +74,25 @@ Table of Contents
 
 <br />
 
+> ## Best Websites to Learn AI/ML
+
+- [Towards Data Science](https://towardsdatascience.com/)
+- [Analytics Vidhya](https://www.analyticsvidhya.com/)
+- [pyimagesearch](https://www.pyimagesearch.com/)
+- [The AI Learner](https://theailearner.com/)
+- [fast.ai](https://www.fast.ai/)
+- [Machine Learning Mastery](https://machinelearningmastery.com/)
+- [KDnuggets](https://www.kdnuggets.com/)
+- [anotherdatum](https://anotherdatum.com/)
+- [AWS ML blogs](https://aws.amazon.com/blogs/machine-learning/)
+- [ML from scratch](https://mlfromscratch.com/)
+- [Learn OpenCV](https://www.learnopencv.com/)
+- [Elite data science](https://elitedatascience.com/)
+
+
+
+<br/>
+
 > ## Python
 
 - [[programiz] Python Built-in Functions](https://www.programiz.com/python-programming/methods/built-in)
@@ -81,6 +101,8 @@ Table of Contents
 
 - [[Corey Schafer] Python OOP Tutorials - Working with Classes](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc)
 - [[Real Python] Intermediate and Advanced Features](https://www.youtube.com/playlist?list=PLP8GkvaIxJP0VAXF3USi9U4JnpxUvQXHx)
+
+- [[automatetheboringstuff] Automate the boring stuff with Python](http://automatetheboringstuff.com/)
 
 <br />
 
