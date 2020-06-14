@@ -190,6 +190,7 @@ Table of Contents
 - [Visualizing memorization in RNNs](https://distill.pub/2019/memorization-in-rnns/)
 - [An Intuitive Understanding of Word Embeddings: From Count Vectors to Word2Vec](https://www.analyticsvidhya.com/blog/2017/06/word-embeddings-count-word2veec/)
 - [A Comprehensive Guide to Understand and Implement Text Classification in Python](https://www.analyticsvidhya.com/blog/2018/04/a-comprehensive-guide-to-understand-and-implement-text-classification-in-python/#:~:text=Text%20Classification%20is%20an%20example,1.)
+- [Tweet Emotions Analysis using-LSTM-Glove-RoBERTA](https://www.kaggle.com/ishivinal/tweet-emotions-analysis-using-lstm-glove-roberta)
 
 
 
